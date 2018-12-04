@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPI", "OPI\OPI.csproj", "{60C25E11-CCC5-4AC3-A53F-5C32C86A0846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C25E11-CCC5-4AC3-A53F-5C32C86A0846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C25E11-CCC5-4AC3-A53F-5C32C86A0846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C25E11-CCC5-4AC3-A53F-5C32C86A0846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C25E11-CCC5-4AC3-A53F-5C32C86A0846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F41A23CB-A7B4-414F-9687-FE2E1B793BB0}
+	EndGlobalSection
+EndGlobal
